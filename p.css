@@ -1,0 +1,58 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+  }
+  
+  header {
+    background-color:#fb9393;
+    color:rgb(242, 242, 242);
+    padding: 20px;
+  }
+  
+  
+  
+  nav {
+    display: inline;
+    margin-right: 5px;
+  }
+  ul {
+    display: inline;
+    margin-right: 5px;
+  }
+  li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color:royalblue;
+    text-decoration: none;
+  }
+  h3{
+    background-color: cornsilk;
+    display:-moz-inline-box;
+  }
+  
+  
+  footer {
+    background-color: #000000;
+    color:rgb(255, 17, 17);
+    padding: 10px;
+    
+  }
+  
+  #home img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    
+  }
+  
+  #portfolio{
+    background-color: rgb(216, 170, 109);
+    padding: 10px;
+  }
+  li{
+    display: inline;
+    margin-right:10px ;
+  }
